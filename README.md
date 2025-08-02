@@ -12,6 +12,7 @@ User ID input
 Password input
 Login button
 Password visibility toggle (eye icon)
+
 Methods:
 testLoginButtonDisabledWhenFieldAreEmpty()
 testPasswordMaskedbutton()
